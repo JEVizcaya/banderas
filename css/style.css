@@ -1,3 +1,9 @@
-img{
-    width: 100px;
+#cargando{
+    width: 10px;
+    position: absolute;
+    top: 40%;
+    left: 50%;
+}
+.bandera{
+    width: 70px;
 }
